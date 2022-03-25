@@ -15,5 +15,5 @@ in more incorrect words. When I saw that the letter I typed was wrong, I stopped
 This behaviour did not occurred with the membrane keyboard. Moreover, with this device, I was able to top 100 WPM and 
 to reach the astonishing accuracy of 97%.
 
-<img src="https://github.com/CowFlu87/RecipeBook/blob/main/Appetizers/TypingSpeed/plot/typing_speed.png" width="700">
+<img src="https://github.com/CowFlu87/TypingSpeed/blob/main/plot/typing_speed.png" width="700">
 
